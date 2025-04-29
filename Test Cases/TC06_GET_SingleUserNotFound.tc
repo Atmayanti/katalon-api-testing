@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>TC06_GET_SingleUserNotFound</description>
+   <name>TC06_GET_SingleUserNotFound</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+</TestCaseEntity>
